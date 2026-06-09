@@ -47,6 +47,13 @@
         "password": "pass810",
         "expirydate": "13-06-2026",
         "Allowoffline": false
+    },
+    {
+        "device_id": "33f70e2dad673578",
+        "username": "user8",
+        "password": "pass000",
+        "expirydate": "13-06-2026",
+        "Allowoffline": false
     }
     
 ],
